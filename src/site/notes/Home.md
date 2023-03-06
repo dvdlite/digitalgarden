@@ -5,30 +5,10 @@
 
 ## Welcome to My Digital Garden!
 
-|                    |                                        |
-|--------------------|----------------------------------------|
-| Front Matter       | Preface                                |
-|                    | Introduction                           |
-| Meta               | Biographical                           |
-|                    | Digital Garden Implementation          |
-|                    | Zettel note taking concept             |
-|                    | Organization                           |
-| Technology         | HomeLab                                |
-|                    | Home Automation                        |
-|                    | Web Development                        |
-|                    | Site Reliability Engineering           |
-| Maker              | Woodworking                            |
-|                    | Raspberry Pi, Microcontrollers, & more |
-| Self Actualization | Spirituality                           |
-| Recreation         | Travel                                 |
-|                    | RV / Camping / Kayaking                |
-|                    | Books / Movies / Television            |
-| Back Matter        | Appendices                             |
-|                    | Glossary                               |
-|                    | Bibliography                           |
-|                    | [[Colophon\|Colophon]]                               |
-|                    | Errata                                 |
-|                    | About the Author                       |
-|                    | License                                |
-|                    | Privacy                                |
-|                    | Contact                                
+Introduction and bio
+
+Digital Garden concept and implementation
+
+Some of my interests that are represented here:  Technology, Woodworking and other Maker projects, Self-Actualization & Spirituality, and Recreation.
+
+[[Colophon\|Colophon]] | License | Privacy | Contact
