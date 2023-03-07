@@ -5,7 +5,7 @@
 
 ## Welcome to My Digital Garden!
 
-Introduction and [[bio\|bio]]
+Introduction and [[Biography\|Biography]]
 
 [[Digital Garden\|Digital Garden]] concept and implementation
 
